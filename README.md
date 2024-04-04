@@ -1,3 +1,3 @@
 # coursera-web-developing
-This is for coursera learning
+This is for coursera learning.
 Author - Jagtar singh
